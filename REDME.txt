@@ -1,0 +1,6 @@
+Requerimientos del Requerimientos
+1. usuario ebe poder ingresar su usuarios y ontraseña
+2. el sistema debe ser capaz de validad si el usuarios y la contraseña  ingresados por el usuarios existen en la base de datos
+
+3. si el usuarios y contraseña son correctos el sistema debe mostrar el mensaje de bienvenida y mostrar el timeline del usuarios
+4. si el usuarios y contraseña son incorrectos, el sistema debe mostrar un mensaje de error y no mostrar ningun timeline.
